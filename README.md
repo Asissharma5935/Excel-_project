@@ -1,4 +1,6 @@
 # Excel-_project
+
+![Microsoft Excel](https://img.shields.io/badge/Tool-Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![Data Analysis](https://img.shields.io/badge/Focus-Sales_Analysis-0A66C2?style=for-the-badge)
 Project: Sales Performance Analysis (KPI)
 For the Given Dataset create dashboard created on Microsoft Excel 365. Clean Data and use Pivot chart and Pivot table to analyse the performance Find out any trends in the sale
 This project involved analyzing sales performance data using Microsoft Excel 365. The dataset was cleaned and prepared for analysis, followed by the use of Pivot Tables and Pivot Charts to create a dynamic and interactive dashboard. The goal was to identify key sales trends, top-performing products, and time-based patterns in performance. This helped draw actionable insights and present the data in a visually clear and concise manner.
